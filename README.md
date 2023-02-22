@@ -21,7 +21,7 @@ This program was written entirely in C Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2022 by [**Ephraim Matarutse**](https://github.com/dopswae98) and [**Tariro Mhlanga**](https://github.com/Tarie123) </br>
+Copyright (C) 2023 by [**Ephraim Matarutse**](https://github.com/dopswae98) and [**Amnay Mallal**](https://github.com/EatherGhost) </br>
 All rights reserved
 
  ## Description :
@@ -30,7 +30,7 @@ It is based on [the Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell
 
 ## Environment :
 
-Our shell was built and tested on  Ubuntu 14.04 LTS.
+Our shell was built and tested on  Ubuntu 20.04 LTS.
 
 ## Features
 * Display a prompt and wait for the user to type a command. A command line always ends with a new line.
@@ -66,7 +66,7 @@ Our shell has support for the following built-in commands:
  
 Clone the below repository and compile the files into an executable using the GCC compiler.
 ```
-https://github.com/StellahMbao/simple_shell.git
+https://github.com/dopswae98/simple_shell.git
 ```
 
 ### Basic usage :bulb:
@@ -86,7 +86,7 @@ ls -la
 ![114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c](https://user-images.githubusercontent.com/57016982/186711943-65abad4d-eedf-4d65-947d-3710e189bdee.png)
 
 ## Contributors :
-* [**Tariro Mhlanga**](https://github.com/Tarie123)
+* [**Amnay Mallal**](https://github.com/EatherGhost)
 * [**Ephraim Matarutse**](https://github.com/dopswae98)
 
 ## Acknowledgments :
