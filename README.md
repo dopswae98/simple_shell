@@ -21,7 +21,7 @@ This program was written entirely in C Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2022 by [**Reny Kipkoech**](https://github.com/Tr-reny) and [**Stellah Mbao**](https://github.com/StellahMbao) </br>
+Copyright (C) 2022 by [**Ephraim Matarutse**](https://github.com/dopswae98) and [**Tariro Mhlanga**](https://github.com/Tarie123) </br>
 All rights reserved
 
  ## Description :
@@ -86,8 +86,8 @@ ls -la
 ![114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c](https://user-images.githubusercontent.com/57016982/186711943-65abad4d-eedf-4d65-947d-3710e189bdee.png)
 
 ## Contributors :
-* [**Reny Kipkoech**](https://github.com/Tr-reny)
-* [**Stellah Mbao**](https://github.com/StellahMbao)
+* [**Tariro Mhlanga**](https://github.com/Tarie123)
+* [**Ephraim Matarutse**](https://github.com/dopswae98)
 
 ## Acknowledgments :
 - The creators of the C language.
